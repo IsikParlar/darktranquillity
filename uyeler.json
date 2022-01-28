@@ -1,42 +1,42 @@
 [{
 "Adi": "Mikael Stanne",
 "Rol": "Solist",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Mikael%20Stanne.jpg",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Mikael%20Stanne.jpg",
 "Yasi":"47"
 },
 
 {
 "Adi": "Martin Brandström",
 "Rol": "Klavye",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Martin%20Brandstr%C3%B6m.jpg",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Martin%20Brandstr%C3%B6m.jpg",
 "Yasi":"46"
 },
 
 {
 "Adi": "Christopher Amott",
 "Rol": "Ritim Gitarist",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Christopher-Amott.png",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Christopher-Amott.png",
 "Yasi":"44"
 },
 
 {
 "Adi": "Johan Reinholdz",
 "Rol": "Lead Gitarist",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Johan%20Reinholdz.jpg",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Johan%20Reinholdz.jpg",
 "Yasi":"41"
 },
 
 {
 "Adi": "Christian Jansson",
 "Rol": "Baterist",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Christian%20Jansson.png",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Christian%20Jansson.png",
 "Yasi":"-"
 },
 
 {
 "Adi": "Anders Ivers",
 "Rol": "Bass Gitarist",
-"ResimURL":"https://github.com/IsikParlar/darktranquillity/blob/main/Anders%20Ivers.jpg",
+"ResimURL":"https://raw.githubusercontent.com/IsikParlar/darktranquillity/main/Anders%20Ivers.jpg",
 "Yasi":"49"
 }
 ]
